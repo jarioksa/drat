@@ -1,0 +1,6 @@
+Package: BayesLogit
+Version: 0.6-1
+Depends: R (>= 2.14.0)
+License: GPL (>= 3)
+MD5sum: d78f1abb13869d0ec483a1786045997c
+NeedsCompilation: yes
