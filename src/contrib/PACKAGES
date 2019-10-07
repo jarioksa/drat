@@ -4,3 +4,11 @@ Depends: R (>= 2.14.0)
 License: GPL (>= 3)
 MD5sum: d78f1abb13869d0ec483a1786045997c
 NeedsCompilation: yes
+
+Package: twinspan
+Version: 0.9-0
+Depends: R (>= 3.5.0)
+Imports: vegan
+License: MIT + file LICENCE
+MD5sum: 58894c1e21eee40555bc1cc9cf4b4cfd
+NeedsCompilation: yes
